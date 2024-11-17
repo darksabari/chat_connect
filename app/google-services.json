@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19171836939",
+    "project_id": "chatmessenger-334d3",
+    "storage_bucket": "chatmessenger-334d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19171836939:android:01278ba30cfb505e73f30e",
+        "android_client_info": {
+          "package_name": "com.example.chatmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8m354pjKmws55XoCABdOS5b9p5KIeg9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
